@@ -33,3 +33,5 @@ const technologies = [
   'Sql',
  
 ];
+🤝 How to Contribute
+We welcome contributions from the community! If you’re interested in contributing to UNİKANEWS, please visit our GitHub repository for more information on how to get started.
