@@ -2,6 +2,14 @@
 
 UNİKANEWS is a news platform that brings you the latest and most important news from around the world.
 
+## Table of Contents
+- [Our YouTube Channel](#-our-youtube-channel)
+- [Our Website](#-our-website)
+- [Project Team](#-project-team)
+- [About the Project](#-about-the-project)
+- [Technologies Used](#-technologies-used)
+- [How to Contribute](#-how-to-contribute)
+
 ## 🎥 Our YouTube Channel
 Check out our YouTube video: [UNİKANEWS on YouTube](https://www.youtube.com/watch?v=TW0LS3jFv54&ab_channel=FurkanD%C3%BCzen)
 
@@ -17,10 +25,11 @@ Visit our project website: [unikanews.furkanduzen.com](http://unikanews.furkandu
 UNİKANEWS is a project created by a team of dedicated developers who are passionate about delivering high-quality news to our readers. Our platform is constantly updated with the latest news from around the world, and we strive to provide accurate and unbiased reporting.
 
 ## 💻 Technologies Used
-- HTML/CSS/JavaScript
-- React.js
-- Node.js
-- MongoDB
-
-## 🤝 How to Contribute
-We welcome contributions from the community! If you're interested in contributing to UNİKANEWS, please visit our [GitHub repository](https://github.com/UNIKANEWS/UNIKANEWS) for more information on how to get started.
+Here are some of the technologies we used to build UNİKANEWS:
+```javascript
+const technologies = [
+  'HTML/CSS/JavaScript',
+  'React.js',
+  'Node.js',
+  'MongoDB'
+];
