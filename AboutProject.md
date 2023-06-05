@@ -29,7 +29,6 @@ Here are some of the technologies we used to build UNİKANEWS:
 ```javascript
 const technologies = [
   'HTML/CSS/JavaScript',
-  'React.js',
-  'Node.js',
-  'MongoDB'
+  'Sql',
+  'Php',
 ];
